@@ -15,7 +15,6 @@ city_name = 'Athens '
 city_area = 361
 city_population = 2664776
 
-
 region = "Attica "
 region_area = 3808
 region_population = 3761810
