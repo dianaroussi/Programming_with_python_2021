@@ -24,3 +24,4 @@ sys.stdout.write("This is an script with three sections \n\n")
 sys.stdout.write("Header section using '#' characters\n")
 sys.stdout.write("library section using import/from ... import commands\n")
 sys.stdout.write("Code section calling the 'sys' library to show you this text\n")
+
